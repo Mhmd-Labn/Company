@@ -1,0 +1,14 @@
+.navbar{
+    border-bottom: 5px solid #0DCAF0;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+}
+
+header{
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,.7) , rgba(0,0,0,.7)) ,url(../images/home.jpg);
+    background-position: center;
+    background-size: cover;
+}
